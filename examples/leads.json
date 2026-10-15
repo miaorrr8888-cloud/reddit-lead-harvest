@@ -1,0 +1,19 @@
+{
+  "synthetic": true,
+  "leads": [
+    {
+      "title": "Synthetic request — not an actual customer",
+      "evidence_url": "https://www.reddit.com/r/example/comments/demo123/example/",
+      "evidence_quote": "Synthetic evidence for demonstrating the report format.",
+      "kind": "buyer_request",
+      "accepting_bids": true,
+      "budget": null
+    },
+    {
+      "title": "Synthetic self-promotion example",
+      "evidence_url": "https://www.reddit.com/r/example/comments/demo456/example/",
+      "evidence_quote": "Synthetic advertisement, not a purchasing request.",
+      "kind": "self_promotion"
+    }
+  ]
+}

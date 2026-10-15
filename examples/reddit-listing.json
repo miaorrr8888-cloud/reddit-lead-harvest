@@ -1,0 +1,14 @@
+{
+  "data": {
+    "children": [
+      {
+        "kind": "t3",
+        "data": {
+          "title": "Synthetic request",
+          "selftext": "We need a cleanup service. Synthetic demonstration, not a real lead.",
+          "permalink": "/r/demo/comments/abc123/synthetic/"
+        }
+      }
+    ]
+  }
+}
