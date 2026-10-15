@@ -1,5 +1,7 @@
 # Reddit 需求证据整理
 
+[新手逐步使用指南](USER_GUIDE.md) · [用途与适用人群介绍](INTRODUCTION.md)
+
 `reddit-lead-harvest` · 独立技能仓库 · MIT
 
 适合：研究海外需求的自由职业者、产品开发者
