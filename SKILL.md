@@ -1,9 +1,12 @@
 ---
 name: reddit-lead-harvest
-description: 从获准访问的 Reddit 帖子整理可追溯的需求线索；适用于用户要求查找需求证据或客户候选。
+description: 从获准使用的红迪导出文件整理潜在客户线索，核对原文与时效，保留未知预算和购买意图。
 license: MIT
----
+version: "1.1.0"
+display_name: "红迪客户线索整理"
+agent_created: true
 
+---
 # Reddit 需求线索
 
 先确定产品、目标用户、时间范围与排除项。使用当前可访问且允许使用的搜索、帖子页面或用户提供的数据；不能把过去某台电脑的 HTTP 状态当作当前可达性结论。

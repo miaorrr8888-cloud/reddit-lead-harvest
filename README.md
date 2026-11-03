@@ -68,3 +68,12 @@ python scripts/review_snapshot.py examples/snapshot.json
 ## 接入依据
 
 [Reddit 官方 Data API 说明](https://support.reddithelp.com/hc/en-us/articles/16160319875092-Reddit-Data-API-Wiki)。自动取得数据必须满足平台批准与使用条件，当前导入器不发网络请求。
+
+## 运行环境
+
+| 项 | 状态 |
+|---|---|
+| Windows 11 + Python 3.12 / 3.13 | ✅ 实测通过 |
+| Linux / macOS | ⚠️ **未实测**。代码用 `pathlib`，无硬编码分隔符，理论上可跑，但测试只在 Windows 跑过，不声称支持 |
+
+诚实标注：没实跑过的平台，不要在对外文案里写「已支持」。
