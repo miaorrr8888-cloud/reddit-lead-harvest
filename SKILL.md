@@ -2,7 +2,7 @@
 name: reddit-lead-harvest
 description: 从获准使用的红迪导出文件整理潜在客户线索，核对原文与时效，保留未知预算和购买意图。
 license: MIT
-version: "1.1.0"
+version: 1.1.1
 display_name: "红迪客户线索整理"
 agent_created: true
 
