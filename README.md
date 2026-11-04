@@ -86,6 +86,15 @@ python scripts/review_snapshot.py examples/snapshot.json
 
 [Reddit 官方 Data API 说明](https://support.reddithelp.com/hc/en-us/articles/16160319875092-Reddit-Data-API-Wiki)。自动取得数据必须满足平台批准与使用条件，当前导入器不发网络请求。
 
+## 许可证
+
+MIT，全文见 [LICENSE](LICENSE)。可商用、可修改、可再分发，保留版权与许可声明即可。
+
+**不提供任何形式的担保。** 本技能输出的是辅助判断，不构成法律、财税或平台合规意见；
+线索需人工核实后才可联系，本技能不自动触达任何人。
+
+第三方依赖各自遵循其原始许可证，本项目不再分发它们的代码或模型权重，详见 `PROVENANCE.md`（如有）。
+
 ## 运行环境
 
 | 项 | 状态 |
