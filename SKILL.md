@@ -1,5 +1,8 @@
 ---
 name: reddit-lead-harvest
+slug: zhengrong-reddit-lead-harvest
+displayName: "红迪客户线索整理"
+summary: "从获准使用的红迪导出文件整理潜在客户线索，核对原文与时效，未知预算和购买意图保留为未知。"
 description: 从获准使用的红迪导出文件整理潜在客户线索，核对原文与时效，保留未知预算和购买意图。
 license: MIT
 version: 1.1.1
